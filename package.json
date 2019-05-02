@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kojisaiki/minimum-ts/issues"
   },
-  "homepage": "https://github.com/kojisaiki/minimum-ts#readme"
+  "homepage": "https://github.com/kojisaiki/minimum-ts#readme",
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
 }
